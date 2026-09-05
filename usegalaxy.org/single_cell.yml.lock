@@ -85,6 +85,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 795751257d82
   - 8983e7a04ba7
   - aaa5da8e73a9
   - b2df381a6004
@@ -175,6 +176,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   - cdf4443d5625

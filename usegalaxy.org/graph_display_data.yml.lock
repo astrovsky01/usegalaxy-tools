@@ -181,6 +181,7 @@ tools:
   - 355a82227003
   - 497d700a5229
   - 536078949ae4
+  - 6b9816a913de
   - 6fc8bab811da
   - b0d96516e6a5
   - fb50ab943396
@@ -268,6 +269,7 @@ tools:
   - 03c13085aecc
   - bd99e8fbde97
   - f1691de443a7
+  - fb6d30ca4ea6
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: pe_histogram
@@ -285,6 +287,7 @@ tools:
   - 44c66e8d21e6
   - 6c571966cfb9
   - 7c9417381ad5
+  - cfc412b91a57
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
 - name: pygenometracks
@@ -299,6 +302,7 @@ tools:
   - 59fd173ac850
   - 5cec5fb749f0
   - 7dd841a32245
+  - 86d0ebe09628
   - a1abfa420d9d
   - eca03db4f612
   tool_panel_section_id: graph_display_data
