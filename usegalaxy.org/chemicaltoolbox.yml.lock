@@ -462,6 +462,7 @@ tools:
   owner: earlhaminst
   revisions:
   - 7c0bb0c48a27
+  - cf657dae1dca
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: autodock_vina_prepare_receptor
@@ -499,6 +500,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
@@ -513,6 +515,7 @@ tools:
   revisions:
   - 75ee9c410951
   - 7672039a0bb0
+  - aa62ff7e28b5
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_genprop
@@ -526,6 +529,7 @@ tools:
   owner: bgruening
   revisions:
   - 274193d6c443
+  - 64e2c5ab51cb
   - 985ab0acd514
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -560,6 +564,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
@@ -781,6 +786,7 @@ tools:
 - name: confab
   owner: bgruening
   revisions:
+  - 1c82b51f7939
   - 461f64330945
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

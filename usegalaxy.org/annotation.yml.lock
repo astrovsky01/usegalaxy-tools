@@ -34,6 +34,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - aada0deea587
@@ -66,6 +67,7 @@ tools:
   - 46ae58b1d792
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -389,6 +391,7 @@ tools:
 - name: freyja_aggregate_plot
   owner: iuc
   revisions:
+  - 0035ac597fa7
   - 0ceb9fb0f4ce
   - 1f89eeba299a
   - 54acd5139cab
@@ -444,6 +447,7 @@ tools:
 - name: funannotate_annotate
   owner: iuc
   revisions:
+  - 0b8d49d3742d
   - 3bbe70fef6df
   - 582fd74dc2a1
   - 756376aeb1ae

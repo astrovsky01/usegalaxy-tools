@@ -80,12 +80,14 @@ tools:
   - 14ddfc8ffb93
   - 7518ee87b53d
   - a96f3ad4e0d8
+  - ab208c87d973
   - de387b2b2803
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 99ecfdafc64f
   - e731ea24e48d
@@ -497,6 +499,7 @@ tools:
 - name: meryl_trio_mode
   owner: iuc
   revisions:
+  - 416dff497d49
   - 47e9001da01b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

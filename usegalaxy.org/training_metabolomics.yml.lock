@@ -76,6 +76,7 @@ tools:
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 5ab06f9104ec
   - 6501d0287dcd
   - 715fe77be601
   - 9e3c83d2afc3
@@ -93,12 +94,14 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: riassigner
   owner: recetox
   revisions:
+  - 9b2fe4c49ecb
   - af25aa61c611
   - c702620c22b1
   - f6bf8f1f3224
@@ -111,6 +114,7 @@ tools:
   - 1a2aeb8137bf
   - b77023c41c76
   - bf32ae95a06f
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: camera_annotate
@@ -125,6 +129,7 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7

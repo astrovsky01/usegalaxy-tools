@@ -11,6 +11,7 @@ tools:
   - 767943cd85bf
   - 7ecb45126cd2
   - b226e0c805a5
+  - f287fbd75138
   - f5792425ea50
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -52,6 +53,7 @@ tools:
   owner: devteam
   revisions:
   - 02a5f43cd5d1
+  - 191e43b329f6
   - 77b41c89d856
   - 8979c288aefb
   - e282bc27be9a
@@ -219,6 +221,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 3cf310697624
   - 545054b15d7c
   - 6153e8ada1ee
@@ -244,6 +247,7 @@ tools:
   owner: iuc
   revisions:
   - 65a69de1e294
+  - 6c56786c9d1a
   - 8d6686664021
   - a7387ce2a8ca
   - ea93df4b3df2
@@ -263,6 +267,7 @@ tools:
   revisions:
   - 3a4256d4f079
   - a6540beef35f
+  - bb486fb0103d
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ucsc_axttomaf

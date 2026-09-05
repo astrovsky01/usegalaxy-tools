@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 01c37e54e86e
+  - 65fc9fc648f4
   - 952abbc4b1de
   - c3ffb2c1e314
   - fb7068d30ec9
@@ -53,6 +54,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   - f8320df1866b
   - ff1af7bac1cb
   tool_panel_section_id: hicexplorer
@@ -80,6 +82,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   - f8320df1866b
   - ff1af7bac1cb
   tool_panel_section_id: hicexplorer
@@ -180,6 +183,7 @@ tools:
   - 0f5786ffa10d
   - 2786a931cad2
   - 2b4d6a8dab36
+  - 5faa9d3839d0
   - cd40ca76865a
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -222,6 +226,7 @@ tools:
 - name: hicexplorer_hichyperoptdetectloops
   owner: bgruening
   revisions:
+  - 1fa29fabe773
   - 3e5c86c2f80d
   - 409396ea5cf0
   - 7f7c6ead2d0d
@@ -429,6 +434,7 @@ tools:
 - name: schicexplorer_schiccreatebulkmatrix
   owner: iuc
   revisions:
+  - 14e19124511c
   - acb3ed49109e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -448,6 +454,7 @@ tools:
   owner: iuc
   revisions:
   - 47ef02546fe9
+  - 48ed2580b39e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicmergetoscool
@@ -459,6 +466,7 @@ tools:
 - name: schicexplorer_schicnormalize
   owner: iuc
   revisions:
+  - 12825fd4c91c
   - 66e96c3d3c5d
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
