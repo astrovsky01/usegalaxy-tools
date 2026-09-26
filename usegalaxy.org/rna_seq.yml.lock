@@ -27,6 +27,7 @@ tools:
   - ae2aad0a6d50
   - df0c8d0a5992
   - f2843df56434
+  - fd9902d118e5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: hisat2
@@ -35,6 +36,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -58,6 +60,7 @@ tools:
   owner: iuc
   revisions:
   - 62adf13b86ea
+  - 74ec758e63a4
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -82,6 +85,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 49121db48873
   - 7fdb9d1591e2
   - cc05793bb896
@@ -136,6 +140,7 @@ tools:
 - name: deseq2
   owner: iuc
   revisions:
+  - 05f9e54d7e81
   - 0696db066a5b
   - 6a3a025714d3
   - 71bacea10eee
@@ -219,6 +224,7 @@ tools:
 - name: deg_annotate
   owner: iuc
   revisions:
+  - e81fbbea6e8f
   - e98d4ab5b5bc
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq

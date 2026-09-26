@@ -53,6 +53,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   - f8320df1866b
   - ff1af7bac1cb
   tool_panel_section_id: hicexplorer
@@ -80,6 +81,7 @@ tools:
   revisions:
   - 45a386d18509
   - 640e0e45518a
+  - e9cf8387e386
   - f8320df1866b
   - ff1af7bac1cb
   tool_panel_section_id: hicexplorer
@@ -411,6 +413,7 @@ tools:
 - name: schicexplorer_schicclustersvl
   owner: iuc
   revisions:
+  - e327fe59be69
   - e6ec3914a076
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -429,6 +432,7 @@ tools:
 - name: schicexplorer_schiccreatebulkmatrix
   owner: iuc
   revisions:
+  - 14e19124511c
   - acb3ed49109e
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer

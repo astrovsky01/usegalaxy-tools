@@ -12,6 +12,7 @@ tools:
   - 4a229a7ad638
   - 6fabdcde0214
   - 8334dc98c48e
+  - 9276346ed061
   - a536d2736c2d
   - c7655b5a94af
   - c80db5d6fd8c
@@ -73,6 +74,7 @@ tools:
   - 51c6ccaace7e
   - 53460afd5115
   - '566197475670'
+  - 6a097d09fca3
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
