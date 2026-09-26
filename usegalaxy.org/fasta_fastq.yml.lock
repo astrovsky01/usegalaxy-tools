@@ -95,6 +95,7 @@ tools:
 - name: fastx_renamer
   owner: devteam
   revisions:
+  - 0ffae348abae
   - 3599f5451ee2
   - b29d37ca9e41
   - f984bb114520
@@ -215,6 +216,7 @@ tools:
   revisions:
   - 084bbd8ba7b8
   - 949f01671246
+  - b94789823aad
   - cd7e644cae1d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

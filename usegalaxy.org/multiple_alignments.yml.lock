@@ -31,6 +31,7 @@ tools:
 - name: mafft
   owner: rnateam
   revisions:
+  - 0a507f4bd19a
   - 6f28e90db932
   - 8e649f27aa0d
   - a65296ffb4a0
@@ -59,6 +60,7 @@ tools:
   owner: iuc
   revisions:
   - 502018997bae
+  - 814ebb1fb04b
   - abe34706eddf
   - b3acbb3a6af0
   - e8fdceffea4c
@@ -68,6 +70,7 @@ tools:
 - name: mummer_mummer
   owner: iuc
   revisions:
+  - 355f84a894bf
   - 48823c9635a4
   - 48badcd29c5d
   - 57f042937ba7
@@ -81,6 +84,7 @@ tools:
   - 315c678562d2
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   - c9685bc0407c
   - deacc6b40cc0
   tool_panel_section_id: multiple_alignments
@@ -88,6 +92,7 @@ tools:
 - name: mummer_show_coords
   owner: iuc
   revisions:
+  - 59f156f7f3c7
   - 959c1f8dae95
   - b4124df98b26
   - b8e2c2f95d26
@@ -99,6 +104,7 @@ tools:
   owner: iuc
   revisions:
   - 4fc0cb2ac8ae
+  - 75e15ee43896
   - c0cedc12fcc5
   - e8c60daa41e0
   - ebe3b0f84de9
@@ -108,6 +114,7 @@ tools:
 - name: mummer_nucmer
   owner: iuc
   revisions:
+  - 298dceed950c
   - 5b0b49b5421c
   - 636b049e6141
   - 7cd7a55a678d
