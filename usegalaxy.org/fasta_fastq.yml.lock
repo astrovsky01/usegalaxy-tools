@@ -30,6 +30,7 @@ tools:
   - de6cebe3c043
   - e4691e1589d3
   - f5fdf41c08b8
+  - f6168dd17f82
   - fe74900d6dc7
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -44,6 +45,7 @@ tools:
   owner: iuc
   revisions:
   - 1d8fe9bc4cb0
+  - 36be11c58dac
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -55,6 +57,7 @@ tools:
 - name: fastx_trimmer
   owner: devteam
   revisions:
+  - 1ea2ae5afb28
   - 547e8d00f11c
   - 61b4cedc8934
   - 73194cdd4f57
@@ -66,6 +69,7 @@ tools:
   - 0c2907307ba4
   - 177f0621c266
   - 6027ef51ef91
+  - 7566b751e769
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_clipper
@@ -104,6 +108,7 @@ tools:
   owner: devteam
   revisions:
   - 0b7ec11b3c7c
+  - 229caeddb2df
   - 4bedca26c133
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -337,6 +342,7 @@ tools:
   owner: iuc
   revisions:
   - 276b4111b253
+  - 43bcc103b1e9
   - 71ad4a56c40c
   - 8250ea3a1501
   - 9570563fb686

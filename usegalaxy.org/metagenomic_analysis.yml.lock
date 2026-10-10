@@ -163,6 +163,7 @@ tools:
 - name: cat_prepare
   owner: iuc
   revisions:
+  - 1ab4a7c40daa
   - 51906c8c692a
   - 8315b5cebb82
   - a40bbd70b8b1
@@ -200,6 +201,7 @@ tools:
   - 7b8cb2b02978
   - a58e4a43f49c
   - cae017b76acb
+  - d000854331fe
   - d60df8727f59
   - f947b4bb5107
   - fa11922f3d91
@@ -277,6 +279,7 @@ tools:
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 5fe3edf19b9c
   - 75403243703a
@@ -295,6 +298,7 @@ tools:
   - 99c6929236fa
   - 9ccec6ed8e82
   - bfd62e881837
+  - d49e0de76bf5
   - e96bbb9e24ea
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -419,6 +423,7 @@ tools:
   - 280386b252a5
   - 45210df786b9
   - cef64c36c89e
+  - ed85107b3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: plasflow
@@ -454,6 +459,7 @@ tools:
   owner: iuc
   revisions:
   - 02bbace216f2
+  - 05e78a90e02d
   - 2deaada69b14
   - 88d274322340
   tool_panel_section_id: metagenomic_analysis
@@ -546,6 +552,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - c63e45a190b5
   - eb50e7eca3dc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -600,6 +607,7 @@ tools:
 - name: krakentools_alpha_diversity
   owner: iuc
   revisions:
+  - 7337f9722ad7
   - 78b69342c280
   - bab112ba9d62
   tool_panel_section_id: metagenomic_analysis
@@ -622,6 +630,7 @@ tools:
 - name: phyloseq_from_biom
   owner: iuc
   revisions:
+  - ac3cb54afbd0
   - b6a38f6222af
   - c0101c72b8af
   tool_panel_section_id: metagenomic_analysis

@@ -27,6 +27,7 @@ tools:
   - ae2aad0a6d50
   - df0c8d0a5992
   - f2843df56434
+  - fd9902d118e5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: hisat2
@@ -35,6 +36,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -58,6 +60,7 @@ tools:
   owner: iuc
   revisions:
   - 62adf13b86ea
+  - 74ec758e63a4
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -113,6 +116,7 @@ tools:
   owner: iuc
   revisions:
   - 01247aaf0a10
+  - 3741c4204eb5
   - 5ae5c312d718
   - 87c11c05d238
   - ce5d418183c5
@@ -177,6 +181,7 @@ tools:
   - 4418229c501e
   - 67b0b160903a
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: gffcompare
@@ -471,6 +476,7 @@ tools:
   revisions:
   - 3f9ff31c88bb
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder
