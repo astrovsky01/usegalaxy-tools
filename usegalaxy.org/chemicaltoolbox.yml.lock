@@ -443,6 +443,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   - f5d7ffbb2d33
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -520,12 +521,14 @@ tools:
   revisions:
   - 50eaae9df8d3
   - b249bf9be0d1
+  - f620af05e524
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_obgrep
   owner: bgruening
   revisions:
   - 274193d6c443
+  - 64e2c5ab51cb
   - 985ab0acd514
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -781,6 +784,7 @@ tools:
 - name: confab
   owner: bgruening
   revisions:
+  - 1c82b51f7939
   - 461f64330945
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

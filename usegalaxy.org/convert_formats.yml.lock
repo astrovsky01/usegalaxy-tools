@@ -17,6 +17,7 @@ tools:
 - name: bbgbigwig
   owner: iuc
   revisions:
+  - 2d24e59a351a
   - b95435276746
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -52,6 +53,7 @@ tools:
   owner: devteam
   revisions:
   - 02a5f43cd5d1
+  - 191e43b329f6
   - 77b41c89d856
   - 8979c288aefb
   - e282bc27be9a
@@ -98,6 +100,7 @@ tools:
   - 158b5b2a164a
   - 60ca8d013263
   - 6ee334657360
+  - 908df9a9f86b
   - e13f565068d6
   - e5340c09200a
   tool_panel_section_id: convert_formats
@@ -107,6 +110,7 @@ tools:
   revisions:
   - 50b7875a49d0
   - 91efc13d3ec1
+  - b1c12a94db6f
   - cdbdce00f5f6
   - ee86b27291b5
   - f4a70882a71b
@@ -117,6 +121,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   - f7229c8445da
@@ -213,6 +218,7 @@ tools:
   - 391a19477a12
   - 39881709807e
   - 3e81299dfce3
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -243,6 +249,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 8d6686664021
   - a7387ce2a8ca
@@ -285,5 +292,6 @@ tools:
   owner: iuc
   revisions:
   - 55efc5c37c16
+  - d8807bae7b3f
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

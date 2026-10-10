@@ -22,6 +22,7 @@ tools:
   owner: lecorguille
   revisions:
   - 26d77e9ceb49
+  - 564d6ab0cf18
   - bb9ee352fce0
   - ec9aebabc1d2
   tool_panel_section_id: metabolomics
@@ -31,6 +32,7 @@ tools:
   revisions:
   - 2b676d5eb848
   - 71572faf938e
+  - a151d2cf27fb
   - d45a786cbc40
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -54,6 +56,7 @@ tools:
   owner: lecorguille
   revisions:
   - 6550698fe60f
+  - 734dfb2af03a
   - b02d1992a43a
   - f5d51091cf84
   tool_panel_section_id: metabolomics
@@ -70,6 +73,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   - 83c4b4359ac4
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -99,6 +103,7 @@ tools:
 - name: riassigner
   owner: recetox
   revisions:
+  - 9b2fe4c49ecb
   - af25aa61c611
   - c702620c22b1
   - f6bf8f1f3224
@@ -144,6 +149,7 @@ tools:
   - 018a9771de28
   - 2a2850fdf29e
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice

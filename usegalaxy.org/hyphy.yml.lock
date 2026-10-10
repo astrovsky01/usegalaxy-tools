@@ -73,6 +73,7 @@ tools:
   - 12bc58a60606
   - 2228dcc23dd9
   - 35df756079a3
+  - 38ac249e5d69
   - 6647e04e92a7
   - 686a8b41d09c
   - 6acfd47732d1
@@ -168,6 +169,7 @@ tools:
 - name: hyphy_fubar
   owner: iuc
   revisions:
+  - 04de395f2a4e
   - 1b893cdead55
   - 271afda54a6d
   - 37f6c6344193
@@ -203,6 +205,7 @@ tools:
   - 6223845127ea
   - 659517798cc4
   - 6a726db04d4b
+  - 6b8fd7d6b0ad
   - 7a2092844346
   - 83f146502c0f
   - 88c4aa435ded

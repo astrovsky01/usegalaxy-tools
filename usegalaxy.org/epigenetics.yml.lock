@@ -13,6 +13,7 @@ tools:
 - name: hicup_hicup
   owner: bgruening
   revisions:
+  - 617966d60e1c
   - 68fb19094f84
   - 852e1fac4802
   tool_panel_section_id: epigenetics
@@ -22,6 +23,7 @@ tools:
   revisions:
   - 2d4a34c00c67
   - 6c26354dabe0
+  - f256f69cecfc
   tool_panel_section_id: epigenetics
   tool_panel_section_label: Epigenetics
 - name: hicup_digester

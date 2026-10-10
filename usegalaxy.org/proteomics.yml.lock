@@ -44,6 +44,7 @@ tools:
   - 9c52362ae7bb
   - ea0a1d50c83f
   - f522c08e900c
+  - fce1301d386c
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: msstats
@@ -146,6 +147,7 @@ tools:
 - name: fragpipe
   owner: galaxyp
   revisions:
+  - c3a75e21f2bf
   - da9ebef968bd
   - e969a182e3cb
   - ef46866326ef
