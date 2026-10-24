@@ -108,6 +108,7 @@ tools:
 - name: mummer_nucmer
   owner: iuc
   revisions:
+  - 298dceed950c
   - 5b0b49b5421c
   - 636b049e6141
   - 7cd7a55a678d
@@ -136,6 +137,7 @@ tools:
   - 0c0288a9d92c
   - 13a99f96d6cc
   - 1c65ddbaeefa
+  - 1e273199758f
   - 1e70671a90c6
   - 20bef04b5272
   - 60ed1c94f584

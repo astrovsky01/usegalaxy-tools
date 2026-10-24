@@ -27,6 +27,7 @@ tools:
   - ae2aad0a6d50
   - df0c8d0a5992
   - f2843df56434
+  - fd9902d118e5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: hisat2
@@ -35,6 +36,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -97,6 +99,7 @@ tools:
   - 54f751e413f4
   - 62c9df8382c2
   - 64be1ac21109
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -162,6 +165,7 @@ tools:
   - b9e04854e2bb
   - c772497b2c32
   - d5659efd66aa
+  - d8d32326fbfb
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: cummerbund
@@ -177,6 +181,7 @@ tools:
   - 4418229c501e
   - 67b0b160903a
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: gffcompare
@@ -185,6 +190,7 @@ tools:
   - 0f710191a66d
   - 3c5e024a18cf
   - 3c97c841a443
+  - a3e78550e42e
   - f99dd58de04f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -445,6 +451,7 @@ tools:
   - 0bcc35b10569
   - 1906cb429215
   - 206a71a69161
+  - 6d005443b243
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: mirdeep2_mapper
@@ -471,6 +478,7 @@ tools:
   revisions:
   - 3f9ff31c88bb
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder
@@ -512,6 +520,7 @@ tools:
   revisions:
   - 06ac35533793
   - 38d2b1f38992
+  - a2bba8b2db55
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: blockbuster
