@@ -53,6 +53,7 @@ tools:
   - 156b60c1530f
   - 3e954e7125bf
   - a5937157062f
+  - ae2f044f7b1c
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -188,6 +189,7 @@ tools:
   revisions:
   - 2e303fcd3b0c
   - 399b40b2bcab
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -301,6 +303,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

@@ -8,6 +8,7 @@ tools:
   revisions:
   - '392811378515'
   - 53dd00a4ab68
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -34,6 +35,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -87,6 +89,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 434f2a6c3ade
   - 99ecfdafc64f
   - e731ea24e48d
   - fd128c111ab0
@@ -107,6 +110,7 @@ tools:
   owner: iuc
   revisions:
   - 11e5408fd238
+  - 868053394d61
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: rnaspades
@@ -187,6 +191,7 @@ tools:
   - 5b26685e5d3b
   - 7922870efcca
   - 9de69775f512
+  - dcaf2403747d
   - e060c3987513
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -258,6 +263,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -287,6 +293,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - 460fad600dce
   - b2f674562a18
@@ -322,6 +329,7 @@ tools:
   owner: iuc
   revisions:
   - 02831bf9e95f
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -338,6 +346,7 @@ tools:
   - 44c66e8d21e6
   - 6c571966cfb9
   - 7c9417381ad5
+  - da25e82a51a8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
@@ -351,6 +360,7 @@ tools:
 - name: gfastats
   owner: bgruening
   revisions:
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -391,6 +401,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -468,6 +479,7 @@ tools:
   owner: iuc
   revisions:
   - bb6774c6aeaf
+  - e893b7452150
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_filter_kmers
@@ -523,5 +535,6 @@ tools:
   owner: iuc
   revisions:
   - 73ddd200456a
+  - 92620e417940
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

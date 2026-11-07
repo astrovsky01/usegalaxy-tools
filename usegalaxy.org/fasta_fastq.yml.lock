@@ -28,6 +28,7 @@ tools:
   - c053d4cad713
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - fe74900d6dc7
@@ -37,6 +38,7 @@ tools:
   owner: iuc
   revisions:
   - 01a4ebf1f237
+  - 48e98c53e8f9
   - a27654fc4270
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -58,6 +60,7 @@ tools:
   - 547e8d00f11c
   - 61b4cedc8934
   - 73194cdd4f57
+  - cac2c7cba460
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_reverse_complement
@@ -97,6 +100,7 @@ tools:
   revisions:
   - 3599f5451ee2
   - b29d37ca9e41
+  - e39e3016fbe1
   - f984bb114520
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -180,6 +184,7 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - 8a2a1f60d8a9
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -322,6 +327,7 @@ tools:
 - name: sickle
   owner: iuc
   revisions:
+  - 482fb7008500
   - 6756c87dc2d4
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -348,6 +354,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: filter_by_fasta_ids
@@ -393,6 +400,7 @@ tools:
   owner: iuc
   revisions:
   - 04e09969d376
+  - 6ec3233f30a6
   - c5a2ee07c4e1
   - f1d33e4c7bd8
   tool_panel_section_id: fasta_fastq
