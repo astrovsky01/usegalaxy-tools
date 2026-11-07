@@ -145,6 +145,7 @@ tools:
 - name: graphembed
   owner: iuc
   revisions:
+  - 4e25e18415c0
   - f28678233baf
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -158,11 +159,13 @@ tools:
   owner: iuc
   revisions:
   - 1bc9150ed125
+  - 7db40b986b82
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
 - name: iwtomics_testandplot
   owner: iuc
   revisions:
+  - 6993163b4133
   - 94965e369be4
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
